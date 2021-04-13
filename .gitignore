@@ -1,0 +1,15 @@
+# Comments
+dis125st-big2.jpg
+About.html
+
+#To ignore folder
+build/
+
+#ignore all text files
+#*.txt
+
+#Negation (!)is to ignore except below file
+!main.txt
+
+#To ignore file only in current directory
+/call.txt
